@@ -1,2 +1,2 @@
-# Sales_Dashboard_Project
-Interactive Sales Dashboard created using Excel/Power BI to analyze sales performance and business insights.
+# Sales Dashboard Project
+Use sales_data.csv in Excel or Power BI to create charts for Sales and Profit.
